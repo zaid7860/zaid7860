@@ -10,9 +10,9 @@
 
 
 - 🔭 My area of interest is in Machine Learning & Deep Learning. 
-- 🌱 I’m currently learning React.js sideby.
-- 💬 Ask me about Data Science & Visualizations.
-- 📫 How to reach me: harshit9665@gmail.com
+- 🌱 I’m currently learning Applied Mathematics sideby.
+- 💬 Ask me about Deep Learning.
+- 📫 How to reach me: abuzaid7860@gmail.com.
 
 You can connect with me here,
 
