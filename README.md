@@ -25,7 +25,7 @@ You can connect with me here,
 
 [![Zaid's github stats](https://github-readme-stats.vercel.app/api?username=zaid7860)](https://github.com/zaid7860/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid7860&layout=compact&hide=html" alt="zaid7860" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zaid7860)](https://github.com/zaid7860/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=)](https://github.com//github-readme-stats)
 
 
 
