@@ -23,7 +23,7 @@ You can connect with me here,
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/aarav9665)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aarav_singh96/)
 
-[![Zaid's github stats](https://github-readme-stats.vercel.app/api?username=zaid7860)](https://github.com/zaid7860/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9665&layout=compact&hide=html" alt="harshit9665" />
+[![Zaid's github stats](https://github-readme-stats.vercel.app/api?username=zaid7860)](https://github.com/zaid7860/github-readme-stats)<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid7860&layout=compact&hide=html" alt="zaid7860" />
 
 
 
