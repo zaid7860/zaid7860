@@ -2,7 +2,7 @@
 ### Hi there 👋 I'm Zaid
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
-<img src="https://komarev.com/ghpvc/?username=zaid7860" alt="harshit9665" />
+<img src="https://komarev.com/ghpvc/?username=zaid7860" alt="zaid7860" />
   
 [![Repos Badge](https://badges.pufler.dev/repos/zaid7860)](https://badges.pufler.dev)
 
