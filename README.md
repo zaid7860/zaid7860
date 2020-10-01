@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Zaid  👾
+# Hi there 👋 I'm Zaid  👾
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
 <img src="https://komarev.com/ghpvc/?username=zaid7860" alt="zaid7860" />
