@@ -1,5 +1,5 @@
 
-### Hi there 👋 I'm Zaid
+### Hi there 👋 I'm Zaid  👾
 <h3 align="center">A passionate Data Science & Machine Learning enthusiast from India</h3>
 
 <img src="https://komarev.com/ghpvc/?username=zaid7860" alt="zaid7860" />
@@ -48,5 +48,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about - any Machine Learning or deep learning related problem.
 - 📫 How to reach me: - Gmail -  abuzaid7860@gmail.com
 - 😄 Pronouns: -  He,Him,his or Ze, Hir , Hirs
-- ⚡ Fun fact: - 
--->
+- ⚡ Fun fact: -  Saint Lucia is the only country in the world named after a woman.🗺  👩🏼‍
